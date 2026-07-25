@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "Modern, feature-rich offline To-Do List application with categories, priorities, dark mode, search, and due dates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
